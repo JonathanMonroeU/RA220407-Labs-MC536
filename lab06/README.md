@@ -1,7 +1,7 @@
 # Aluno
 * `220407`: `Lindon Jonathan Sanley dos Santos Pereira Monroe`
 
-# Análise do Artigo `<título do artigo>`
+# Análise do Artigo `Central de Fatos: Um Repositório de Checagens de Fatos`
 
 | campo | valor |
 |------------|----------------------------------------|
@@ -20,4 +20,4 @@
 
 ## Trabalhos relacionados
 
-> Relacione outras iniciativas relacionadas com a do artigo que tenham sido mencionadas no mesmo.
+> Uma alternativa mencionada é a encontrada em https://www.poynter.org/coronavirusfactsalliance/, porém, como o próprio artigo informa, é focada em desinformação acerca do coronavírus e é uma base internacional que pouco reflete a realidade brasileira.
