@@ -1,14 +1,14 @@
 # Aluno
-* `RA`: `<nome completo>`
+* `220407`: `Lindon Jonathan Sanley dos Santos Pereira Monroe`
 
 # Análise do Artigo `<título do artigo>`
 
 | campo | valor |
 |------------|----------------------------------------|
 | referência | `<referência bibliográfica do artigo>` |
-| link       | `<url para acesso à página do artigo ou PDF do mesmo>` |
-| dataset | `<link para o repositório público onde está hospedado o dataset>` |
-| formato | `<formato em que os arquivos são disponibilizados>` |
+| link       | `https://drive.google.com/file/d/10VbG50QMvYV6jyCxgU2mwP21vYUG6CcA/view` |
+| dataset | `https://doi.org/10.5281/zenodo.5191798.` |
+| formato | `Tabela (csv)` |
 
 ## Resumo
 
