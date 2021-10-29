@@ -9,7 +9,8 @@ Escreva em Cypher uma consulta que retorne os marcadores da categoria `Serviços
 
 ### Resolução
 ~~~cypher
-(escreva aqui a resolução em Cypher)
+MATCH (m:Marcador)-[:Pertence]->(c:Categoria {id: 'Serviços'})
+RETURN m
 ~~~
 
 ## Tarefa 2
@@ -18,5 +19,6 @@ Escreva em Cypher uma consulta que retorne os marcadores da categoria `Serviços
 
 ### Resolução
 ~~~cypher
-(escreva aqui a resolução em Cypher)
+MATCH (m:Marcador)-[:Pertence]->()-[:Superior*0..]->(c:Categoria {id:"Serviços"})
+RETURN m
 ~~~
