@@ -3,4 +3,4 @@
 
 ## Tarefa sobre Acesso a DBPedia, MeSH e OpenStreetMap
 
-[Link do notebook](notebook/lab02-logic-model-dbpedia.ipynb)
+[Link do notebook](notebook/lab2-logic-model-dbpedia.ipynb)
